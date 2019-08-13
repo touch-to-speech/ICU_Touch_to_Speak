@@ -39,9 +39,10 @@ There's a raft of possibilities for expanding the system's functionality, includ
 
 ## Interested in working on this project? 
 Here's what to do:
-* read the strategic case, including the requireemnts
+* read the strategic case, including the requirements
 * build a physical system consisting of two switches connected to a touchscreen
 * download the code
 * conduct a heuristic evaluation of the interface, user test and improve it
-* check the specification of the other (non-usability) requirements with users...
+* check the specification of the other (non-usability) requirements with potential users such as ICU staff
+* take it to the next level!
 
