@@ -3,14 +3,6 @@ ICU Touch To Speak
 
 ICU Touch to Speak is an open source switch-operated, web-based device designed to be used by nonverbal patients in an Intensive Care Unit (ICU) for communicating with nurses, medical staff and family. It has been developed at the University of Otago, Dunedin, New Zealand.   
 
-## Table of Contents
-
-* [The vision behind ICU Touch To Speak](## The vision behind ICU Touch To Speak)
-* [ICU Touch To Speak's point of difference](## ICU Touch To Speak's point of difference )
-* [Features](## Features)
-* [The point we are at](## The point we are at)
-* [Interested in working on the project?](Interested in working on this project? )
-
 ## The vision behind ICU Touch To Speak
 Worldwide, millions of people are admitted to an ICU each year. One of the most difficult things an ICU patient has to cope with is their inability to communicate. Our vision is to create a device that will serve to reduce the trauma this causes by providing an alternative way to communicate. 
 
