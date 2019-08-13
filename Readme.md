@@ -41,7 +41,7 @@ There's a raft of possibilities for expanding the system's functionality, includ
 Here's what to do:
 * read the strategic case, including the requirements
 * build a physical system consisting of two switches connected to a touchscreen
-* download the code
+* download the code [which will be added to this site in August 2019]
 * conduct a heuristic evaluation of the interface, user test and improve it
 * check the specification of the other (non-usability) requirements with potential users such as ICU staff
 * take it to the next level!
