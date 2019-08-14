@@ -1,7 +1,7 @@
 ICU Touch To Speak
 ==================
 
-ICU Touch to Speak is an open source switch-operated, web-based device designed to be used by nonverbal patients in an Intensive Care Unit (ICU) for communicating with nurses, medical staff and family. It has been developed at the University of Otago, Dunedin, New Zealand.   
+ICU Touch to Speak is an open source switch-operated, web-based application designed to be used by nonverbal patients in an Intensive Care Unit (ICU) for communicating with nurses, medical staff and family. It has been developed at the University of Otago, Dunedin, New Zealand.   
 
 ## The vision behind ICU Touch To Speak
 Worldwide, millions of people are admitted to an ICU each year. One of the most difficult things an ICU patient has to cope with is their inability to communicate. Our vision is to create a device that will serve to reduce the trauma this causes by providing an alternative way to communicate. 
@@ -24,7 +24,7 @@ The system is:
 * styled in CSS, using CSS grid throughout, for placement of button and such.
 
 ## The point we are at
-This repository contains code for a working prototype, including a basic interface. In 2019, a group of SHIFT students at the University of Otago, NZ — students studying for a graduate diploma in Information and Communication Technology — devloped this working prototype and made it available to the open source community. 
+This repository contains code for a working prototype, including a basic interface. In 2019, a group of SHIFT students at the University of Otago — students studying for a graduate diploma in Information and Communication Technology — devloped this working prototype and made it available to the open source community. 
 
 The prototype, along with a additional list of requirements (in the Appendix of the strategic case, attached to this page), constitute the requirements for the development of this device. This list of requirements has largely been derived from the literature (cited in the strategic case bibliography) and needs to be tested with ICU staff and patients. 
  
