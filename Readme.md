@@ -12,7 +12,7 @@ ICU Touch To Speak aims to develop a device that meets the basic communication n
 
 ## ICU Touch To Speak's point of difference 
 Compared to the alternatives currently available, our switch-based computer system, encompassing hardware, software and human-computer interface, offers the following advantages:
-* It can be configured for one or two switches, or any keystroke event based human interface (HID).
+* It can be configured for one or two switches, or any keystroke event-based human interface (HID).
 * It is be able to run in any common web-browser.
 * It allows the nonverbal patient to initiate communication, even when they have limited mobility.
 * Its interface could be adapted to a specific local context (rather than being a generic app). 
